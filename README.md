@@ -1,4 +1,12 @@
+
+
 # 👨‍💻 Xandao
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Ciencia_da_computacao-UFSJ-blue?style=for-the-badge&logo=university">
+  <img src="https://img.shields.io/badge/Desenvolvedor_Backend-Java-orange?style=for-the-badge&logo=java">
+  <img src="https://img.shields.io/badge/Blockchain_&_DeFi-Expert-gold?style=for-the-badge&logo=bitcoin">
+</p>
 
 **`Desenvolvedor Backend`**
 
