@@ -61,7 +61,7 @@ Me chamo Alexandre Vital, tenho 19 anos e moro em São João del-Rei, MG. Atualm
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
 />
 
-<a href="https://www.linkedin.com/in/alexandre-vital-/" target="_blank">
+<a href="www.linkedin.com/in/alexandrevital" target="_blank">
     <img 
         align="left" 
         alt="Linkedin" 
