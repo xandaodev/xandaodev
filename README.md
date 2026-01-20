@@ -54,6 +54,15 @@ Me chamo Alexandre Vital, tenho 19 anos e moro em São João del-Rei, MG. Atualm
 
 <img 
     align="left" 
+    alt="VScode" 
+    title="VScode"
+    width="45px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
+/>
+
+<img 
+    align="left" 
     alt="GitHub" 
     title="GitHub"
     width="45px" 
@@ -72,15 +81,15 @@ Me chamo Alexandre Vital, tenho 19 anos e moro em São João del-Rei, MG. Atualm
     />
 </a>
 
+
 <img 
     align="left" 
-    alt="VScode" 
-    title="VScode"
-    width="45px" 
+    alt="Bitcoin" 
+    title="Bitcoin"
+    width="50px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
+    src="https://raw.githubusercontent.com/spothq/cryptocurrency-icons/master/svg/color/btc.svg" 
 />
-
 
 <br/>
 <br/>
