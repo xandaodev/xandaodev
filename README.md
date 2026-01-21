@@ -31,14 +31,6 @@ Me chamo Alexandre Vital, tenho 19 anos e moro em São João del-Rei, MG. Atualm
 
 
 
----
-## 🎯 Objetivos para 2026
-- ☕ Me aprofundar em **Java** (Spring Boot e Microserviços) focado em Backend.
-- 📑 Aprender e me aprofundar em **SQL**
-- 📈 Terminar de desenvolver meu projeto **Gerenciador de Investimentos Cripto** 
-- 🔍 Conseguir meu primeiro **Estágio ou Emprego em TI**
-
----
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -110,7 +102,15 @@ Me chamo Alexandre Vital, tenho 19 anos e moro em São João del-Rei, MG. Atualm
 
 <br/>
 <br/>
-<br/>
+
+---
+## 🎯 Objetivos para 2026
+- ☕ Me aprofundar em **Java** (Spring Boot e Microserviços) focado em Backend.
+- 📑 Aprender e me aprofundar em **SQL**
+- 📈 Terminar de desenvolver meu projeto **Gerenciador de Investimentos Cripto** 
+- 🔍 Conseguir meu primeiro **Estágio ou Emprego em TI**
+
+---
 <br/>
 
 ## 🚀 Projetos em Destaque
