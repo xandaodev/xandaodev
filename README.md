@@ -29,6 +29,8 @@ Me chamo Alexandre Vital, tenho 19 anos e moro em São João del-Rei, MG. Atualm
     </a>
 </p>
 
+
+
 ---
 ## 🎯 Objetivos para 2026
 - ☕ Me aprofundar em **Java** (Spring Boot e Microserviços) focado em Backend.
@@ -105,6 +107,23 @@ Me chamo Alexandre Vital, tenho 19 anos e moro em São João del-Rei, MG. Atualm
     style="padding-right: 10px;" 
     src="https://raw.githubusercontent.com/spothq/cryptocurrency-icons/master/svg/color/btc.svg" 
 />
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+## 🚀 Projetos em Destaque
+
+| Projeto | Descrição | Tech Stack | Status |
+| :--- | :--- | :--- | :--- |
+| **[Gerenciador de Investimentos Cripto](https://github.com/xandaodev/gerenciamento_investimentos_cripto)** | Aplicação Java para gestão de ativos e investimentos com cotações em tempo real. | `Java` `JSON` `APIs` | 🛠️ Em desenvolvimento |
+| **[Sistema de Reserva de Salas UFSJ](https://github.com/Jvfmjamba/sistema-reserva-salas)** | Sistema desenvolvido em grupo para gerenciamento de espaços acadêmicos na UFSJ. | `Java` `Orientação a objetos` `Trabalho em Equipe` | ✅ Concluído |
+| **[Problema do Caixeiro Viajante por Ant System](https://github.com/xandaodev/ProblemaCaixeiroViajante_por_AntSystem)** | Resolução do Problema do Caixeiro Viajante utilizando sistemas de formigas (Meta-heurística). | `Java` `Grafos` `Otimização` | ✅ Concluído |
+| **[Monitoria: Estrutura de Dados](https://github.com/xandaodev)** | Algoritmos de ordenação, listas e árvores desenvolvidos para a monitoria na UFSJ. | `C` `Algoritmos` | ✅ Concluído |
+| **[Space Invaders C](https://github.com/xandaodev/Space_Invaders_C)** | Jogo estilo arcade desenvolvido como projeto acadêmico. | `C` `Game Dev` | ✅ Concluído |
+
+<br/>
 
 <br/>
 <br/>
