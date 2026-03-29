@@ -10,7 +10,7 @@
 
 **`Desenvolvedor Backend`**
 
-Me chamo Alexandre Vital, tenho 19 anos e moro em São João del-Rei, MG. Atualmente, curso Ciência da Computação na UFSJ (4º período). Sou apaixonado por tecnologia e pelo mercado financeiro, unindo esses dois interesses através do estudo de Web3 e Blockchain. Compartilho meu conhecimento sobre o mercado de criptoativos através de conteúdos educativos e mentorias, e busco constantemente evoluir minhas habilidades em desenvolvimento, especialmente com Java.
+Me chamo Alexandre Vital, tenho 20 anos e moro em São João del-Rei, MG. Atualmente, curso Ciência da Computação na UFSJ (4º período). Sou apaixonado por tecnologia e pelo mercado financeiro, unindo esses dois interesses através do estudo de Web3 e Blockchain. Compartilho meu conhecimento sobre o mercado de criptoativos através de conteúdos educativos e mentorias, e busco constantemente evoluir minhas habilidades em desenvolvimento, especialmente com Java.
 
 <p align="left">
 <a href="https://github.com/xandaodev?tab=repositories&sort=stargazers">
@@ -106,7 +106,7 @@ Me chamo Alexandre Vital, tenho 19 anos e moro em São João del-Rei, MG. Atualm
 ---
 ## 🎯 Objetivos para 2026
 - ☕ Me aprofundar em **Java** (Spring Boot e Microserviços) focado em Backend.
-- 📑 Aprender e me aprofundar em **SQL**
+- 📑 Me aprofundar cada vez mais e dominar **Banco de Dados** e **SQL**
 - 📈 Terminar de desenvolver meu projeto **Gerenciador de Investimentos Cripto** 
 - 🔍 Conseguir meu primeiro **Estágio ou Emprego em TI**
 
