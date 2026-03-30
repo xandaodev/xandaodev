@@ -1,5 +1,3 @@
-
-
 # 👨‍💻 Xandao
 
 <p align="center">
@@ -29,19 +27,7 @@ Me chamo Alexandre Vital, tenho 20 anos e moro em São João del-Rei, MG. Atualm
     </a>
 </p>
 
-
-
-
 ### 🤖 Linguagens e Tecnologias
-
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="45px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
 
 <img 
     align="left" 
@@ -61,7 +47,32 @@ Me chamo Alexandre Vital, tenho 20 anos e moro em São João del-Rei, MG. Atualm
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
 />
 
+<img 
+    align="left" 
+    alt="SQL" 
+    title="SQL"
+    width="45px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
+/>
 
+<img 
+    align="left" 
+    alt="MySQL" 
+    title="MySQL"
+    width="45px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="45px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
 
 <img 
     align="left" 
@@ -92,7 +103,6 @@ Me chamo Alexandre Vital, tenho 20 anos e moro em São João del-Rei, MG. Atualm
     />
 </a>
 
-
 <img 
     align="left" 
     alt="Bitcoin" 
@@ -109,8 +119,7 @@ Me chamo Alexandre Vital, tenho 20 anos e moro em São João del-Rei, MG. Atualm
 ## 🎯 Objetivos para 2026
 - ☕ Me aprofundar em **Java** (Spring Boot e Microserviços) focado em Backend.
 - 📑 Me aprofundar cada vez mais e dominar **Banco de Dados** e **SQL**
-- 📈 Terminar de desenvolver meu projeto **Gerenciador de Investimentos Cripto** 
-- 🔍 Conseguir meu primeiro **Estágio ou Emprego em TI**
+- 📈 Terminar de desenvolver meu projeto **Gerenciador de Investimentos Cripto** - 🔍 Conseguir meu primeiro **Estágio ou Emprego em TI**
 
 ---
 <br/>
@@ -132,7 +141,6 @@ Me chamo Alexandre Vital, tenho 20 anos e moro em São João del-Rei, MG. Atualm
 
 ### 📊 Estatísticas
 
-
 <img 
     align="left" 
     alt="GitHub stats" 
@@ -144,9 +152,8 @@ Me chamo Alexandre Vital, tenho 20 anos e moro em São João del-Rei, MG. Atualm
 
 <img 
     align="left" 
-    alt="GitH ub stats" 
+    alt="GitHub stats" 
     height="200" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=xandaodev&theme=tokyonight&layout=compact&custom_title=Tecnologias&lang_count=4" 
 />
-
