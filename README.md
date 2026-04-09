@@ -37,7 +37,14 @@ Me chamo Alexandre Vital, tenho 20 anos e moro em São João del-Rei, MG. Atualm
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
-
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="45px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
 <img 
     align="left" 
     alt="C" 
@@ -45,6 +52,14 @@ Me chamo Alexandre Vital, tenho 20 anos e moro em São João del-Rei, MG. Atualm
     width="45px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="HTML5" 
+    title="HTML5"
+    width="45px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 
 <img 
@@ -55,7 +70,6 @@ Me chamo Alexandre Vital, tenho 20 anos e moro em São João del-Rei, MG. Atualm
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
 />
-
 <img 
     align="left" 
     alt="MySQL" 
@@ -63,6 +77,14 @@ Me chamo Alexandre Vital, tenho 20 anos e moro em São João del-Rei, MG. Atualm
     width="45px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
+/>
+<img 
+    align="left" 
+    alt="PostgreSQL" 
+    title="PostgreSQL"
+    width="45px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
 />
 
 <img 
@@ -73,7 +95,6 @@ Me chamo Alexandre Vital, tenho 20 anos e moro em São João del-Rei, MG. Atualm
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-
 <img 
     align="left" 
     alt="VScode" 
@@ -82,7 +103,14 @@ Me chamo Alexandre Vital, tenho 20 anos e moro em São João del-Rei, MG. Atualm
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
 />
-
+<img 
+    align="left" 
+    alt="IntelliJ" 
+    title="IntelliJ"
+    width="45px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" 
+/>
 <img 
     align="left" 
     alt="GitHub" 
@@ -102,7 +130,6 @@ Me chamo Alexandre Vital, tenho 20 anos e moro em São João del-Rei, MG. Atualm
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" 
     />
 </a>
-
 <img 
     align="left" 
     alt="Bitcoin" 
@@ -120,9 +147,7 @@ Me chamo Alexandre Vital, tenho 20 anos e moro em São João del-Rei, MG. Atualm
 - 🔍 Conseguir meu primeiro **Estágio ou Vaga Júnior em TI**
 - ☕ Me aprofundar em **Java** (Spring Boot e Microserviços) focado em Backend.
 - 📑 Me aprofundar cada vez mais e dominar **Banco de Dados** e **SQL**
-- 📈 Terminar de desenvolver meu projeto **Gerenciador de Investimentos Cripto** 
-
----
+- 📈 Terminar de desenvolver meu projeto **Gerenciador de Investimentos Cripto** ---
 <br/>
 
 ## 🚀 Projetos em Destaque
