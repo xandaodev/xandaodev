@@ -89,6 +89,25 @@ Me chamo Alexandre Vital, tenho 20 anos e moro em São João del-Rei, MG. Atualm
 
 <img 
     align="left" 
+    alt="Postman" 
+    title="Postman"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-plain.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Spring" 
+    title="Spring"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" 
+/>
+
+
+<img 
+    align="left" 
     alt="Git" 
     title="Git"
     width="40px" 
@@ -139,23 +158,6 @@ Me chamo Alexandre Vital, tenho 20 anos e moro em São João del-Rei, MG. Atualm
     src="https://raw.githubusercontent.com/spothq/cryptocurrency-icons/master/svg/color/btc.svg" 
 />
 
-<img 
-    align="left" 
-    alt="Postman" 
-    title="Postman"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-plain.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Spring" 
-    title="Spring"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" 
-/>
 
 <br/>
 <br/>
