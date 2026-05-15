@@ -149,6 +149,7 @@ Me chamo Alexandre Vital, tenho 20 anos e moro em São João del-Rei, MG. Atualm
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" 
     />
 </a>
+<!--
 <img 
     align="left" 
     alt="Bitcoin" 
@@ -157,6 +158,7 @@ Me chamo Alexandre Vital, tenho 20 anos e moro em São João del-Rei, MG. Atualm
     style="padding-right: 10px;" 
     src="https://raw.githubusercontent.com/spothq/cryptocurrency-icons/master/svg/color/btc.svg" 
 />
+-->
 
 
 <br/>
